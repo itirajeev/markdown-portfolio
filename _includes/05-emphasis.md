@@ -1,6 +1,6 @@
 # My family
 
-Below is the list of my family members 
+*The list*
 
 ## My Beautiful Family
 - Daddy (Rajeev)
