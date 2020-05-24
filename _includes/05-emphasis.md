@@ -1,1 +1,8 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# My family
+
+Below is the list of my family members 
+
+## My Beautiful Family
+- Daddy (Rajeev)
+- Mommy (Iti)
+- Baby (Rinni)
